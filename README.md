@@ -8,13 +8,10 @@
 * Node JS
 * MongoDB
 
-###Install Node JS & Module
-
-**1**
+**Install Node JS & Module**
 ```
 npm init -y
 ```
-**2**
 ```
 npm i express mongoose body-parser ejs nodemon
 ```
